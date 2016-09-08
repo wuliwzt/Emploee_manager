@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="OASystem"
+  id="myeclipse.1470620306609"
+  context-root="/OASystem"
+  j2ee-spec="5.0"
+  archive="OASystem.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
